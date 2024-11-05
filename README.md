@@ -34,7 +34,6 @@ These are general resources required to get started with DayZ modding and map cr
 A list of essential applications for DayZ development, including installation and setup instructions.
 
 - **Notepad++** – for editing configuration files.
-- **Visual Studio 2022 (Community Edition)** – for coding and scripting.
 - **Blender** – for creating and editing 3D models.
 - **Git Bash** – for version control and repository management.
 - **DayZ Tools** – essential for modding and map creation.
@@ -44,6 +43,7 @@ A list of essential applications for DayZ development, including installation an
 
 Optional tools that can enhance your workflow or provide additional functionality.
 
+- **Visual Studio 2022 (Community Edition)** – for coding and scripting.
 - **Substance Painter** – for texturing 3D models.
 - **World Creator 2.0** – for procedural terrain generation.
 - **MindMeister** – for brainstorming and organizing ideas.
