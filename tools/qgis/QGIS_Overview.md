@@ -27,6 +27,14 @@ QGIS allows for extensive control over geographic data, enabling users to manipu
    - Visit the GitLab repository: [Game Terrain Tools Wiki](https://gitlab.com/Adanteh/qgis-game-terrains/-/wikis/home)
    - Navigate to the "Download" section and download the latest `gtt.zip` file.
 
+3. **Mikeros Tools**
+   - You want to ensure that you have all the required tools install and setup properly. You can find more details in the [Mikero Tools Overview](../mikero_tools/Mikero_Tools_Overview.md) guide.
+
+4. **DayZ Tools**
+   - A suite providing various utilities to help you build, modify, and publish custom content for the game, such as maps.
+   - Visit our [DayZ Tools Overview](../dayz_tools/DayZ_Tools_Overview.md) guide for additional details.
+   - Youtube Tutorials Installing DayZ Tools
+      - Grampa's - DayZ Channel: [Getting Started - DayZ Tools](https://youtu.be/r4bTNuRQWDU?si=gXjhRZTxRz66ixe6&t=45)
 ---
 
 ## Installing Game Terrain Tools (GTT) Plugin in QGIS
