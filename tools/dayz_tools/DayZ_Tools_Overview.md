@@ -1,16 +1,17 @@
-# DayZ Tools
+# 🛠️ DayZ Tools Overview 📋
 
 DayZ Tools are essential for modding and map creation in DayZ. This suite provides various utilities to help you build, modify, and publish custom content for the game.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [What DayZ Tools Offer](#what-dayz-tools-offer)
 - [System Requirements](#system-requirements)
 - [How to Install DayZ Tools](#how-to-install-dayz-tools)
   - [Pre-Requisites](#pre-requisites)
   - [Installing via Steam](#installing-via-steam)
   - [Alternative Drive Installations](#alternative-drive-installations)
+- [Setting Up the P Drive](#setting-up-the-p-drive)
 - [Fundamental Tools Required to Create Maps](#fundamental-tools-required-to-create-maps)
   - [Detailed Tool Descriptions](#detailed-tool-descriptions)
 - [Troubleshooting Tips](#troubleshooting-tips)
@@ -19,7 +20,7 @@ DayZ Tools are essential for modding and map creation in DayZ. This suite provid
 
 ---
 
-## What DayZ Tools Offer
+## ⭐ What DayZ Tools Offer
 
 DayZ Tools come with a set of applications and utilities that cover everything from object building to terrain editing and publishing content. These tools allow you to:
 - Create and edit 3D objects.
@@ -30,7 +31,7 @@ DayZ Tools come with a set of applications and utilities that cover everything f
 
 ---
 
-## System Requirements
+## 🖥️ System Requirements
 
 To run DayZ Tools effectively, ensure that your system meets the following minimum requirements:
 
@@ -45,57 +46,106 @@ To run DayZ Tools effectively, ensure that your system meets the following minim
 
 ---
 
-## How to Install DayZ Tools
+## ⬇️ How to Install DayZ Tools
 
-### Pre-Requisites
+### 🔑 Pre-Requisites
 
 To use DayZ Tools, you must first purchase a copy of DayZ. You can buy it from the Steam store:
 
 - **Purchase DayZ**: [https://store.steampowered.com/app/221100/DayZ/](https://store.steampowered.com/app/221100/DayZ/)
 
-### Installing via Steam
+  ![DayZ Steam Purchase](images/dayz_steam_purchase.png)
+
+### 📥 Installing via Steam
 
 Once you have DayZ, you can download DayZ Tools through Steam. Follow these steps:
 
 1. Open the Steam application.
 2. Go to the **Library** tab.
 3. In the **Games** dropdown, select **Tools**.
+
+    ![Steam Tools Enabled](images/steam_stools_enabled.png)
+
 4. Search for "DayZ Tools" and click **Install**.
+
+    ![Steam DayZ Tools](images/steam_dayz_tools.png)
 
 - **Install DayZ Tools**: [https://store.steampowered.com/app/830640/DayZ_Tools/](https://store.steampowered.com/app/830640/DayZ_Tools/)
 
-### Alternative Drive Installations
+### 🚀 Alternative Drive Installations
 
 If you have DayZ or DayZ Tools installed on a different drive (e.g., an SSD or secondary HDD), keep the following in mind to ensure smooth functionality:
 
 1. **Consistent File Paths**: Ensure that DayZ and DayZ Tools are installed on the same drive. If they are on different drives, some tools may have trouble locating game files.
 
 2. **Steam Library Setup**: If you’re installing on a secondary drive, add the drive as a **Steam Library Folder**:
-   - In Steam, go to **Settings > Downloads > Steam Library Folders**.
-   - Add the folder on your alternative drive where DayZ and DayZ Tools will be installed.
-   
+   - In Steam, go to **Steam > Settings**
+
+      ![Steam Settings](images/steam_settings.png)
+
+   - In the `STEAM SETTINGS` popup window, select **Storage** on the sidebar.
+
+      ![Steam Settings Storage](images/steam_settings_storage.png)
+
+   - Locate the dropdown and select the drive where you want your games/tools to be installed, such as DayZ Tools.
+
+      ![DayZ Tools Storage Selection](images/steam_settings_storage_selection.png)
+
 3. **Configure DayZ Tools Path**: In DayZ Tools, go to **Settings > Configure Path** and ensure that paths for DayZ and other tools are pointing to the correct locations on your drive. Incorrect paths can lead to missing files or crashes.
 
-4. **Permissions**: If DayZ Tools or game files are installed on a secondary drive, ensure the drive permissions allow full access. Right-click the drive in **File Explorer**, select **Properties > Security**, and make sure your user has full access.
+    ![DayZ Tools Alternate Path](images/dayz_tools_alternate_path.png)
+
+4. **Permissions**: If DayZ Tools or game files are installed on a secondary drive, ensure the drive permissions allow proper access. Right-click the drive in **File Explorer**, select **Properties > Security**, and make sure your user has the appropriate access (shown in the image below).
+
+    ![File Explorer Properties](images/file_explorer_properties.png)
+    
+    ![File Explorer Properties Security](images/file_explorer_properties_security.png)
 
 5. **Consider Disk Speed**: DayZ Tools can benefit from faster loading and processing times, so it’s ideal to install both the game and tools on an SSD if possible. However, if you’re using an HDD, be mindful that some tasks may run slower.
 
 ---
 
-## Fundamental Tools Required to Create Maps
+## 💾 Setting Up the P Drive
+
+The **P Drive** is a crucial part of the DayZ modding environment as it acts as a workspace where you can safely modify game files without altering the original game installation.
+
+### 📂 Steps to Set Up the P Drive
+
+1. **Mount the P Drive in DayZ Tools**:
+   - Open **DayZ Tools**.
+   - Go to **Tools > Dismount Drive P** if the P Drive is already mounted and needs to be reset.
+   - Then select **Tools > Workbench** to mount the **P Drive**.
+
+      ![DayZ Tools Mount P Drive](images/dayz_tools_p_drive_mount.png)
+
+2. **Verify the P Drive is Mounted**:
+   - You should see the **P Drive** appear in **File Explorer** as a new drive. It will act as your modding workspace.
+
+      ![DayZ Tools P Drive Mounted](images/dayz_tools_p_drive_mounted.png)
+
+3. **Path Configuration**:
+   - Make sure that **DayZ Tools** and **DayZ** are installed on the same drive, as mentioned in the installation steps. Consistent paths are critical for the P Drive to function correctly.
+
+      ![DayZ Tools Same Drive](images/dayz_tools_same_drive.png)
+
+> **Tip**: The **P Drive** acts like a sandbox where you can make changes to game files without affecting the original ones, ensuring a safe and organized modding process.
+
+---
+
+## 🔧 Fundamental Tools Required to Create Maps
 
 DayZ Tools include various components. Here’s an overview of the most important ones for map creation and modding:
 
 | Tool               | Description                                                                                           |
 |--------------------|-------------------------------------------------------------------------------------------------------|
 | **Workbench**      | Enfusion engine game core, used for scripting, particles, editing, and UI development.                |
-| **Addon Builder**  | Converts data into readable formats similar to `.zip` or `.rar`.                                      |
+| **Addon Builder**  | Converts data into readable formats similar to `.zip` or `.rar`. Even though this is an option for creating mods, a better software to use is `PboProject`. This gives better error details when issues occur. Please refer to our [Mikero Tools Overview](../mikero_tools/Mikero_Tools_Overview.md) guide on how to install `PboProject`.                                      |
 | **Publisher**      | Publishes mods to Steam, making them accessible for others to download and play.                      |
 | **Terrain Builder**| Shape terrain, add objects, and preview in Bulldozer.                                                 |
 | **Object Builder** | Create simple or complex 3D models/assets to play in the game. Acts as a Blender substitute.          |
 | **Economy Editor** | Configure spawn points for loot, zombies, etc. Defines spawn locations, spawn radius, and other settings. Typically used as the final step in map creation. |
 
-### Detailed Tool Descriptions
+### ✨ Detailed Tool Descriptions
 
 - **Workbench**: This is the core interface for working with the Enfusion engine. It’s used for scripting, creating particles, editing UI components, and setting up the core logic for mods. You can also use it to manage the overall project structure.
   
@@ -111,7 +161,7 @@ DayZ Tools include various components. Here’s an overview of the most importan
 
 ---
 
-## Troubleshooting Tips
+## 🛠️ Troubleshooting Tips
 
 1. **DayZ Tools Not Launching**: Make sure your Visual C++ Redistributables are up to date. DayZ Tools require these libraries to function properly. Download and install the latest versions from the Microsoft website.
 
@@ -123,13 +173,13 @@ DayZ Tools include various components. Here’s an overview of the most importan
 
 ---
 
-## Additional Resources
+## 📚 Additional Resources
 
 - **Official DayZ Modding Documentation**: [Bohemia Interactive Wiki](https://community.bistudio.com/wiki/DayZ)
 - **Steam Workshop for DayZ**: [DayZ Workshop](https://steamcommunity.com/app/221100/workshop/)
 - **DayZ Modders Discord Community**: Join the community for help, tips, and sharing mods with other developers.
 
-### Discord Servers
+### 🤝 Discord Servers
 
 Here are some Discord servers where you can find help and connect with other DayZ modders and developers:
 
@@ -143,7 +193,7 @@ These servers provide a platform to share knowledge, seek assistance, and discus
 
 ---
 
-## Images
+## 🖼️ Images
 
 ![DayZ Tools Interface](images/dayz_tools_interface.png)
 > Screenshot of the DayZ Tools interface showing the main tool options, including Workbench, Terrain Builder, Object Builder, Addon Builder, and Economy Editor.
@@ -154,3 +204,4 @@ These servers provide a platform to share knowledge, seek assistance, and discus
 ---
 
 By following these instructions and using the tools listed above, you'll have everything needed to start creating maps and mods for DayZ.
+
