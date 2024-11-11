@@ -71,8 +71,8 @@ Once **DayZ Tools** and the **P: Drive** are properly set up, you can start usin
    - A command-line window 🖥️ will appear and check for the DayZ installation path 📂. Follow the instructions to set up your **P: Drive** 💾.
    - This process can take a while ⏳ as it sets up all the necessary files 📂. **Dayz2p** is useful for converting game files so you can edit them ✏️ in the **P: Drive** 💾.
 
-   ![Dayz2p Command Prompt](images/dayz2p_command_prompt.png)
-   ![Dayz2p Command Prompt Completed](images/dayz2p_command_prompt_two.png)
+      ![Dayz2p Command Prompt](images/dayz2p_command_prompt.png)
+      ![Dayz2p Command Prompt Completed](images/dayz2p_command_prompt_two.png)
 
 **Dayz2p** is an important step because it gives you editable versions of the DayZ game files 📂. These files are usually in .pbo format 📄, which means you need this step to access and change them ✏️. The initial setup may take some time ⏳ depending on the size of the game 🎮 and your computer's speed 💻, so be patient.
 
