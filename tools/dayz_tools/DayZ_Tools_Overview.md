@@ -5,18 +5,18 @@ DayZ Tools are essential for modding and map creation in DayZ. This suite provid
 ---
 
 ## 📑 Table of Contents
-- [What DayZ Tools Offer](#what-dayz-tools-offer)
-- [System Requirements](#system-requirements)
-- [How to Install DayZ Tools](#how-to-install-dayz-tools)
-  - [Pre-Requisites](#pre-requisites)
-  - [Installing via Steam](#installing-via-steam)
-  - [Alternative Drive Installations](#alternative-drive-installations)
-- [Setting Up the P Drive](#setting-up-the-p-drive)
-- [Fundamental Tools Required to Create Maps](#fundamental-tools-required-to-create-maps)
-  - [Detailed Tool Descriptions](#detailed-tool-descriptions)
-- [Troubleshooting Tips](#troubleshooting-tips)
-- [Additional Resources](#additional-resources)
-  - [Discord Servers](#discord-servers)
+- [What DayZ Tools Offer](#-what-dayz-tools-offer)
+- [System Requirements](#%EF%B8%8F-system-requirements)
+- [How to Install DayZ Tools](#%EF%B8%8F-how-to-install-dayz-tools)
+  - [Pre-Requisites](#-pre-requisites)
+  - [Installing via Steam](#-installing-via-steam)
+  - [Alternative Drive Installations](#-alternative-drive-installations)
+- [Setting Up the P Drive](#-setting-up-the-p-drive)
+- [Fundamental Tools Required to Create Maps](#-fundamental-tools-required-to-create-maps)
+  - [Detailed Tool Descriptions](#-detailed-tool-descriptions)
+- [Troubleshooting Tips](#%EF%B8%8F-troubleshooting-tips)
+- [Additional Resources](#-additional-resources)
+  - [Discord Servers](#-discord-servers)
 
 ---
 
