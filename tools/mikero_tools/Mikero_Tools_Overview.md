@@ -52,7 +52,7 @@ Before using Mikero Tools, you must ensure that **DayZ Tools** is properly set u
    - Set **Automatic mount of the Project Drive** to **Startup of the Tools**. This way, every time you start **DayZ Tools**, the **P: Drive** will be mounted automatically 🤖.
    - Click **Apply** to save your settings 💾. Doing this makes your workflow easier and reduces the chances of errors while making maps 🗺️.
 
-![DayZ Tools Settings](images/dayz_tools_settings.png)
+      ![DayZ Tools Settings](images/dayz_tools_settings.png)
 
 Configuring **DayZ Tools** correctly is crucial so that all your other tools, like Mikero Tools 🛠️, work well together 🤝. The paths for the Project Drive and Game Directory need to match your work environment exactly 🔄. If they don’t, your modifications may not function properly when you try to use them in the game 🎮.
 
