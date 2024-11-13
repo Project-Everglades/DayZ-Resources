@@ -36,6 +36,7 @@ A list of essential applications for DayZ development, including installation an
 
 - [**Notepad++**](/tools/notepad_plus_plus/notepad_plus_plus.md) – ✏️ for editing configuration files.
 - [**Blender**](/tools/blender/blender.md) – 🖌️ for creating and editing 3D models.
+- [**AutoDesk Fusion**](https://www.autodesk.com/products/fusion-360/personal) – 🖌️ for creating and editing 3D models. Can you the `Personal Use` version for free which offers a different perspective than `Blender` with creating 3D models. 
 - [**Git Bash**](/tools/gitbash/gitbash_overview.md) – 🌳 for version control and repository management.
 - [**DayZ Tools**](/tools/dayz_tools/DayZ_Tools_Overview.md) – 🔧 essential for modding and map creation.
 - **PBO Manager** – 📦 for working with PBO files in DayZ.
