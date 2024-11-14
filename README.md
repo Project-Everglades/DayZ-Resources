@@ -95,29 +95,6 @@ Resources for creating 3D models and assets to use in custom DayZ mods.
 
 ---
 
-## 💾 Setting Up the P Drive
-
-The **P Drive** is a critical part of the modding workflow, serving as your modding workspace where you can safely make changes to game files without affecting the original installation.
-
-### 🛠️ How to Set Up the P Drive
-
-1. **Mount the P Drive in DayZ Tools**:
-   - Open **DayZ Tools**.
-   - Go to **Tools > Dismount Drive P** if it's already mounted and needs to be reset.
-   - Then select **Tools > Workbench** to mount the **P Drive**.
-
-   ![DayZ Tools Mount P Drive](images/dayz_tools_p_drive_mount.png)
-
-2. **Verify the P Drive is Mounted**:
-   - The **P Drive** should appear in **File Explorer** as a new drive. This is your workspace for modifying DayZ files.
-
-3. **Ensure Consistent Paths**:
-   - Make sure DayZ Tools and DayZ are installed on the same drive. Consistent paths are critical for the P Drive to function correctly and to prevent errors during the modding process.
-
-> **Tip**: Think of the **P Drive** as your sandbox – a safe place to make changes without touching the core game files! 🏖️
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from the DayZ community! If you have a tool, resource, or insight to share, please follow these steps to contribute:
