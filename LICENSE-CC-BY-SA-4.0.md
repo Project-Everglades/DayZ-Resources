@@ -2,13 +2,13 @@
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and does not provide legal services or legal advice. Distribution of Creative Commons public licenses does not create a lawyer-client or other relationship. Creative Commons makes its licenses and related information available on an "as-is" basis. Creative Commons gives no warranties regarding its licenses, any material licensed under their terms and conditions, or any related information. Creative Commons disclaims all liability for damages resulting from their use to the fullest extent possible.
 
-### License
+## License
 
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
 BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE CONSIDERED A CONTRACT, YOU ARE GRANTED THE LICENSE IN EXCHANGE FOR YOUR ACCEPTANCE OF THESE TERMS AND CONDITIONS, AND CREATIVE COMMONS GRANTS YOU SUCH RIGHTS IN CONSIDERATION OF BENEFITS THE LICENSOR RECEIVES FROM MAKING THE WORK AVAILABLE UNDER THESE TERMS AND CONDITIONS.
 
-### Section 1 – Definitions.
+### Section 1 – Definitions
 
 1. **Adapted Material** means material subject to Copyright and Similar Rights that is derived from or based upon the Work and in which the Work is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this License, where the Work is a musical work, performance, or sound recording, Adapted Material is always produced where the Work is synched in timed relation with a moving image.
 2. **Copyright and Similar Rights** means copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized. For purposes of this License, the rights specified in Section 2(b)(1)-(2) are not Copyright and Similar Rights.
@@ -21,7 +21,7 @@ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE B
 9. **Sui Generis Database Rights** means rights other than copyright resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other essentially equivalent rights anywhere in the world.
 10. **You** means the individual or entity exercising the Licensed Rights under this License. **Your** has a corresponding meaning.
 
-### Section 2 – Scope.
+### Section 2 – Scope
 
 1. **License grant**.
    1. Subject to the terms and conditions of this License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
@@ -41,12 +41,12 @@ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE B
    2. Patent and trademark rights are not licensed under this License.
    3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties.
 
-### Section 3 – License Conditions.
+### Section 3 – License Conditions
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-**Attribution**
+### Attribution
 
 1. If You Share the Licensed Material (including in modified form), You must:
-  1. retain the following if it is supplied by the Licensor with the Licensed Material:
-    1. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);
+   1. retain the following if it is supplied by the Licensor with the Licensed Material:
+      1. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);

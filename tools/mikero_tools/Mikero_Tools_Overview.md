@@ -19,7 +19,7 @@ To help you with map-making 🗺️ and creating custom content ✨ for DayZ, yo
 - **MakePbo**: This tool 🛠️ packages 📦 your modified files back into .pbo format so they can be used by the DayZ game engine 🕹️.
 - **Eliteness**: A versatile tool 🛠️ that lets you view 👀 .pbo files, read their contents 📄, and make changes ✏️.
 - **ExtractPbo**: Similar to Dayz2p, this tool 🛠️ lets you break apart .pbo files so you can inspect 🔍 and modify them ✏️.
-- **pboProject**: This is a project management tool 🗂️ that compiles multiple files into a .pbo, ensuring they are organized 📑 correctly for the game 🎮. I use this instead of `Addon Builder` in DayZ Tools due to the error log output is more detailed. 
+- **pboProject**: This is a project management tool 🗂️ that compiles multiple files into a .pbo, ensuring they are organized 📑 correctly for the game 🎮. I use this instead of `Addon Builder` in DayZ Tools due to the error log output is more detailed.
 - **Rapify**: Converts text-based .rap files back into a format the DayZ game engine 🕹️ can read.
 
 You can download 📥 the tools from [HERE](https://mikero/download-link-example.com). After downloading them, use the **Mikero AIO Installer** to manage these tools easily 🤖. The AIO Installer will help keep everything up to date 🔄 and ensure all necessary components ⚙️ are installed.
@@ -87,9 +87,10 @@ This should create the necessary configuration files 📂 for the **P: Drive** �
 
 If the error persists, you will see this prompt:
 
-```
+```text
 P: does not exist. Do you wish to make one? [Y,N]?
 ```
+
 Press `Y` on your keyboard ⌨️ to continue. Depending on your computer 💻, this process can take up to an hour ⏳. Make sure not to interrupt it, as it could result in incomplete files or errors later ❌.
 
 <!-- ![Dayz2p P Drive Error](images/dayz2p_p_drive_error.png) -->

@@ -79,8 +79,6 @@ Organizing your project files systematically is crucial for efficient workflow a
 
 ## Folder Details
 
-
-
 ### `data/` - Processed Data Files
 
 The **data** folder includes important files generated or used by Terrain Builder.

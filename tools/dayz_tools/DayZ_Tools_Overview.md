@@ -5,6 +5,7 @@ DayZ Tools are essential for modding and map creation in DayZ. This suite provid
 ---
 
 ## 📑 Table of Contents
+
 - [What DayZ Tools Offer](#-what-dayz-tools-offer)
 - [System Requirements](#%EF%B8%8F-system-requirements)
 - [How to Install DayZ Tools](#%EF%B8%8F-how-to-install-dayz-tools)
@@ -23,6 +24,7 @@ DayZ Tools are essential for modding and map creation in DayZ. This suite provid
 ## ⭐ What DayZ Tools Offer
 
 DayZ Tools come with a set of applications and utilities that cover everything from object building to terrain editing and publishing content. These tools allow you to:
+
 - Create and edit 3D objects.
 - Process and refine terrain data.
 - Configure economy settings, including loot and zombie spawns.
@@ -98,7 +100,7 @@ If you have DayZ or DayZ Tools installed on a different drive (e.g., an SSD or s
 4. **Permissions**: If DayZ Tools or game files are installed on a secondary drive, ensure the drive permissions allow proper access. Right-click the drive in **File Explorer**, select **Properties > Security**, and make sure your user has the appropriate access (shown in the image below).
 
     ![File Explorer Properties](images/file_explorer_properties.png)
-    
+
     ![File Explorer Properties Security](images/file_explorer_properties_security.png)
 
 5. **Consider Disk Speed**: DayZ Tools can benefit from faster loading and processing times, so it’s ideal to install both the game and tools on an SSD if possible. However, if you’re using an HDD, be mindful that some tasks may run slower.
@@ -204,4 +206,3 @@ These servers provide a platform to share knowledge, seek assistance, and discus
 ---
 
 By following these instructions and using the tools listed above, you'll have everything needed to start creating maps and mods for DayZ.
-

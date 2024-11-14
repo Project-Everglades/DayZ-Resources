@@ -38,6 +38,7 @@ You can download Notepad++ directly from its official website 🌐:
 ### 🖥️ System Requirements
 
 Notepad++ supports Windows operating systems, including:
+
 - Windows 11, Windows 10, Windows 8.1, and Windows 7
 - Limited support through compatibility layers like Wine on Linux 🐧
 
@@ -55,4 +56,3 @@ Once installed, launch Notepad++ and explore its features:
 Notepad++ is a powerful and flexible tool that caters to a wide range of tasks. With its extensive support for plugins and features, it serves as a versatile editor for developers, writers, and anyone who works with plain text 📜.
 
 For more detailed information ℹ️, you can refer to the [📚 official Notepad++ documentation](https://npp-user-manual.org/).
-

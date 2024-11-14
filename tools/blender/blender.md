@@ -65,6 +65,7 @@ Blender has a vast community, and there are plenty of resources to help you get 
 - **BlenderGIS Add-On**: [BlenderGIS GitHub](https://github.com/domlysz/BlenderGIS) - Import terrain data and work with real-world coordinates.
   
 For specific tutorials on map making and modding, refer to this helpful video:
+
 - [DayZ Modding Series By TWE4KS](https://youtu.be/r4bTNuRQWDU?si=n2ktjyenu_bMiQIR)
 - [DayZ Modded Guns (Part One) By AVERAGEsouls](https://youtu.be/vema8Fv0zHk?si=fxc_gFdRHoCfQuJ_)
 - [DayZ Modded Re-Texture Items By GamingwithJC](https://youtu.be/Ugf2S3dcPo8?si=qM4ntaz2rlMhiYJ6)

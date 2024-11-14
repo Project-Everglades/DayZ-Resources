@@ -36,7 +36,7 @@ A list of essential applications for DayZ development, including installation an
 
 - [**Notepad++**](/tools/notepad_plus_plus/notepad_plus_plus.md) – ✏️ for editing configuration files.
 - [**Blender**](/tools/blender/blender.md) – 🖌️ for creating and editing 3D models.
-- [**AutoDesk Fusion**](https://www.autodesk.com/products/fusion-360/personal) – 🖌️ for creating and editing 3D models. Can you the `Personal Use` version for free which offers a different perspective than `Blender` with creating 3D models. 
+- [**AutoDesk Fusion**](https://www.autodesk.com/products/fusion-360/personal) – 🖌️ for creating and editing 3D models. Can you the `Personal Use` version for free which offers a different perspective than `Blender` with creating 3D models.
 - [**Git Bash**](/tools/gitbash/gitbash_overview.md) – 🌳 for version control and repository management.
 - [**DayZ Tools**](/tools/dayz_tools/DayZ_Tools_Overview.md) – 🔧 essential for modding and map creation.
 - **PBO Manager** – 📦 for working with PBO files in DayZ.
@@ -105,7 +105,7 @@ The **P Drive** is a critical part of the modding workflow, serving as your modd
    - Open **DayZ Tools**.
    - Go to **Tools > Dismount Drive P** if it's already mounted and needs to be reset.
    - Then select **Tools > Workbench** to mount the **P Drive**.
-   
+
    ![DayZ Tools Mount P Drive](images/dayz_tools_p_drive_mount.png)
 
 2. **Verify the P Drive is Mounted**:
@@ -144,4 +144,3 @@ Please ensure you adhere to the appropriate license based on the type of resourc
 ---
 
 By following these guides, using the tools, and leveraging the resources provided, you'll be able to take your DayZ modding to the next level. Happy modding! 🎉
-

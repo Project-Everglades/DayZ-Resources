@@ -63,7 +63,7 @@ By following these steps, you will have access to the pre-configured objects and
 
 ---
 
-### Explanation of Additions:
+### Explanation of Additions
 
 1. **GitHub Repository Link**: Direct link added to access the repository.
 2. **Cloning the Repository**: Detailed instructions provided for cloning via Git Bash.

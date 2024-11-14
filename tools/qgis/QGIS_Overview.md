@@ -3,6 +3,7 @@
 QGIS (Quantum Geographic Information System) is a free and open-source GIS application used for viewing, editing, and analyzing geographic data. It is particularly valuable in mapping and terrain generation, making it ideal for game development projects that require accurate map data.
 
 ## Why Use QGIS?
+
 QGIS allows for extensive control over geographic data, enabling users to manipulate data layers, create maps, and process terrain for modding and game design. It is essential for creating realistic and highly detailed maps in game environments.
 
 ---
@@ -10,6 +11,7 @@ QGIS allows for extensive control over geographic data, enabling users to manipu
 ## Installation
 
 ### Step 1: Download and Install QGIS
+
 1. Visit the official QGIS download page: [QGIS Download](https://www.qgis.org/download/)
 2. Choose the "Long Term Release (LTR)" version for Windows. This version is more stable and suited for long-term projects.
    - Example Download: **Long Term Version for Windows (3.34 LTR)**
@@ -21,7 +23,7 @@ QGIS allows for extensive control over geographic data, enabling users to manipu
 1. **OpenTopography**  
    - Provides access to high-resolution topographic data.
    - Visit the following URL for data: [OpenTopography Link](https://portal.opentopography.org/raster?opentopoID=OTSRM.082015.4326.1)
-   
+
 2. **Game Terrain Tools**  
    - A plugin used to work with game-specific terrain needs in QGIS.
    - Visit the GitLab repository: [Game Terrain Tools Wiki](https://gitlab.com/Adanteh/qgis-game-terrains/-/wikis/home)
@@ -35,6 +37,7 @@ QGIS allows for extensive control over geographic data, enabling users to manipu
    - Visit our [DayZ Tools Overview](../dayz_tools/DayZ_Tools_Overview.md) guide for additional details.
    - Youtube Tutorials Installing DayZ Tools
       - Grampa's - DayZ Channel: [Getting Started - DayZ Tools](https://youtu.be/r4bTNuRQWDU?si=gXjhRZTxRz66ixe6&t=45)
+
 ---
 
 ## Installing Game Terrain Tools (GTT) Plugin in QGIS
@@ -81,6 +84,7 @@ QGIS allows for extensive control over geographic data, enabling users to manipu
 ## Useful Layers for Road Creation
 
 To create roads, make sure the following layers are included:
+
 - `osm_multipolygons`
 - `osm_lines`
 
@@ -89,4 +93,5 @@ To create roads, make sure the following layers are included:
 ## YouTube Tutorials
 
 For additional guidance, check out this video tutorial:
+
 - [QGIS Path Getting Started](https://www.youtube.com/watch?v=Y6T-j3CmAGU)

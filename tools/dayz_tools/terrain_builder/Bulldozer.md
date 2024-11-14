@@ -16,13 +16,15 @@ Bulldozer is a preview tool in Terrain Builder for viewing and editing terrain. 
       ![Bulldozer Settings](images/terrain-builder-settings-bulldozer.png)
    - Set the paths for the Bulldozer fields
       - **.exe file path**:
-         ```
+
+         ```text
          D:\Steam\steamapps\common\DayZ\DayZ_BE.exe
          ```
 
       - **Launch Parameters**:
          - Use these parameters for optimal performance:
-            ```
+
+            ```text
             -buldozer -window -exThreads=0 -mod= -noAsserts -nologs -profiles=P:\Buldozer -cfg=P:\Buldozer\Buldozer.cfg -name=Buldozer
             ```
 
@@ -45,7 +47,7 @@ Bulldozer is a preview tool in Terrain Builder for viewing and editing terrain. 
 ## Additional Notes
 
 - **Brush Tool**: When in Brush Tool mode, you can toggle between *Smooth* and *Normal* modes with `G`. Smooth smooths terrain, while Normal raises the land.
-- **Object Mode**: 
+- **Object Mode**:
   - `5` to change functions within Object Mode:
     - `Modification = Rotate`
       - `1`: Hold to apply modification to X-axis.
@@ -55,7 +57,8 @@ Bulldozer is a preview tool in Terrain Builder for viewing and editing terrain. 
   - `6` to change Coordinates between *Object* and *World*.
 
 > **Tip**: Press `F10` while in Bulldozer to improve visual quality for edits. This setting can be customized.
-   - To ensure this feature works you must first add a 'Custom Script' shown below
+
+> **NOTE**: To ensure this feature works you must first add a `Custom Script` shown below
 
 ---
 
@@ -64,7 +67,8 @@ Bulldozer is a preview tool in Terrain Builder for viewing and editing terrain. 
 To further enhance Bulldozer, add the following script:
 
 1. **Create the Script**:
-   - Create a file named `bulldozer.c` with the following content:
+   - Create a file named [`buldozer.c`](./buldozer.c) with the following content:
+
      ```c
      static void BuldozerMain() {
          // name of this file depends on the user-name (its buldozer.c when buldozer is launched with -name=Buldozer)
@@ -127,7 +131,8 @@ To further enhance Bulldozer, add the following script:
 
 2. **Save Location**:
    - Place the script in the following directory:
-     ```
+
+     ```text
      P:\scripts\bulldozer.c
      ```
 

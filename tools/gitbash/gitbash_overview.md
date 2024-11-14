@@ -33,43 +33,54 @@ After installation, you can use Git Bash to interact with GitHub repositories di
 
 1. **Clone a Repository**:
    - To clone a repository from GitHub:
+
      ```bash
      git clone https://github.com/username/repository.git
      ```
+
    - Replace `username` and `repository` with the actual GitHub username and repository name.
 
 2. **Add Changes**:
    - Stage changes for commit:
+
      ```bash
      git add .
      ```
+
    - This stages all modified files. You can also add individual files by specifying their paths.
 
 3. **Commit Changes**:
    - Commit the staged changes with a message:
+
      ```bash
      git commit -m "Your commit message here"
      ```
 
 4. **Push Changes**:
    - Push your changes to the GitHub repository:
+
      ```bash
      git push origin main
      ```
+
    - Replace `main` with your branch name if you are working on a different branch.
 
 5. **Pull Updates**:
    - Fetch and merge changes from the repository:
+
      ```bash
      git pull origin main
      ```
 
 6. **Create and Switch Branches**:
    - Create a new branch:
+
      ```bash
      git branch new-branch-name
      ```
+
    - Switch to that branch:
+
      ```bash
      git checkout new-branch-name
      ```
@@ -107,28 +118,33 @@ Each cheat sheet provides essential commands to manage repositories, branches, a
 Here’s a simple example workflow for contributing to a GitHub project using Git Bash:
 
 1. **Clone the Repository**:
+
     ```bash
     git clone https://github.com/username/repository.git
     cd repository
     ```
 
 2. **Create a New Branch (following the branching model)**:
+
     ```bash
     git branch feature/new
     git checkout feature/new
     ```
 
 3. **Make Changes and stage them**:
+
     ```bash
     git add .
     ```
 
 4. **Commit Changes**:
+
     ```bash
     git commit -m "Added new feature"
     ```
 
 5. **Push to GitHub**:
+
     ```bash
     git push origin feature-new
     ```
@@ -140,6 +156,7 @@ Here’s a simple example workflow for contributing to a GitHub project using Gi
 ### Additional Tips for Using Git Bash
 
 - **Aliasing Commands**: You can create aliases in Git Bash for frequently used commands to make your workflow faster. For example:
+
     ```bash
     alias gs='git status'
     alias ga='git add .'
@@ -147,6 +164,7 @@ Here’s a simple example workflow for contributing to a GitHub project using Gi
     ```
 
 - **Setting Up SSH with GitHub**: To avoid entering your GitHub credentials each time you push changes, consider setting up SSH keys:
+
     ```bash
     ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
     ```
