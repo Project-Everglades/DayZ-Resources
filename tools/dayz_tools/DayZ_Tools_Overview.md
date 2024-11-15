@@ -157,7 +157,7 @@ DayZ Tools include various components. Here’s an overview of the most importan
 
 - **Terrain Builder (TB)**: A powerful tool that allows you to create and modify terrains. It supports shaping landscapes, placing objects, and applying textures. Terrain Builder works in conjunction with the Bulldozer preview to visualize your changes in real-time.
 
-- **Object Builder (OB)**: Used to create and import 3D models and objects into the game. This tool allows you to design simple and complex assets, configure object properties, and set collision boundaries. For creators without access to Blender, Object Builder serves as a comprehensive modeling tool.
+- **Object Builder (OB)**: Used to create and import 3D models and objects into the game. This tool allows you to design simple and complex assets, configure object properties, and set collision boundaries. For creators without access to Blender, Object Builder serves as a comprehensive modeling tool. This tool will also assist you with exporting .P3D files as .FBX or .OBJ.
 
 - **Economy Editor**: This tool lets you configure the spawn points, spawn radius, and probabilities for loot, NPCs (zombies), and vehicles. This is usually the final step in map creation, helping balance gameplay by controlling resource distribution and spawn points.
 
